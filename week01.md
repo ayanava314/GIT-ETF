@@ -6,9 +6,6 @@
 **Topics:**
 - The Symbolic Methods
 
-**Notes:**  
-→ [Week 1 PDF](pdf/week01.pdf)
-
 ---
 
 ## 💬 Comment Thread
