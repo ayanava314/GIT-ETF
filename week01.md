@@ -14,6 +14,6 @@ layout: default
 
 ---
 
-## Comment Thread 💬
+## Comment Thread
 
 This page corresponds to the GitHub Discussion or Issue for Week 1.
