@@ -1,5 +1,6 @@
 ---
 title: "Geometric Invariant Theory and ETF — Reading Course (2025)"
+layout: default
 ---
 Welcome! This is the shared workspace for our reading course on
 **Geometric Invariant Theory and ETFs**.
