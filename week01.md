@@ -1,4 +1,4 @@
-# Week 1 — Introduction & Motivation
+# Week 1 — Introduction and Motivation
 
 **Reading:**  
 - I. Dolgachev: Lectures on invariant theory --Chapter 1
