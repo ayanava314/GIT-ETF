@@ -1,6 +1,7 @@
 # Week 1 — Introduction & Motivation
 
-**Reading:**  I. Dolgachev: Lectures on invariant theory. London Mathematical Society Lecture Note Series, 296. Cambridge University Press, Cambridge, 2003, Chapter 1
+**Reading:**  I. Dolgachev: Lectures on invariant theory --Chapter 1
+
 **Topics:**
 - The Symbolic Methods
 
