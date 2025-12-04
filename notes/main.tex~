@@ -1,0 +1,18 @@
+
+        \documentclass{article}
+        \usepackage{amsmath, amssymb, amsthm}
+
+        \title{GIT Reading Course — All Notes}
+        \author{Ayanava}
+        \date{2025}
+
+        \begin{document}
+        \maketitle
+
+        % You can `\input{week01.tex}` and `\input{week02.tex}` here to combine.
+        \input{week01.tex}
+
+        \clearpage
+        \input{week02.tex}
+
+        \end{document}
