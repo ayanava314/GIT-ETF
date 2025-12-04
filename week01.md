@@ -1,5 +1,6 @@
 ---
 title: "Week 1 : Introduction and Motivation"
+layout: default
 ---
 
 # Week 1 - Introduction and Motivation
