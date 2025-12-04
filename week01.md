@@ -1,7 +1,7 @@
 # Week 1 — Introduction & Motivation
 
 **Reading:**  
--I. Dolgachev: Lectures on invariant theory --Chapter 1
+- I. Dolgachev: Lectures on invariant theory --Chapter 1
 
 **Topics:**
 - The Symbolic Methods
