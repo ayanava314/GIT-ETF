@@ -1,4 +1,5 @@
 title: Geometric Invariant Theory and ETF Reading Course
+theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   math_engine: mathjax
