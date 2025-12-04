@@ -4,7 +4,7 @@
 - I. Dolgachev: Lectures on invariant theory --Chapter 1
 
 **Topics:**
-- The Symbolic Methods
+- What is ETF? How to define a affine variety $V\subset\mathbb{A}^1(\mathbb{C})$
 
 ---
 
