@@ -19,8 +19,8 @@ Here you'll find:
 
 ## 📝 Notes (PDFs)
 
-- [Week 1 PDF](pdf/week01.pdf)
-- [Full Notes](pdf/main.pdf)
+- [Week 1 PDF](/pdf/week01.pdf)
+- [Full Notes](/pdf/main.pdf)
 
 ---
 
