@@ -13,7 +13,7 @@ Here you'll find:
 
 ## 📘 Weeks
 
-- [Week 1: Preliminaries & motivation](week01.md)
+- [Week 1: Preliminaries and motivation](week01.md)
 
 ---
 
