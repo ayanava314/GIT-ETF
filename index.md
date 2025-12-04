@@ -20,7 +20,7 @@ Here you'll find:
 
 ## 📝 Notes (PDFs)
 
-- [Full Notes](/pdf/main.pdf)
+- [Full Notes](/notes/main.pdf)
 
 ---
 
