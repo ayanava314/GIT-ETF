@@ -59,10 +59,10 @@ Each week includes:
 
 ## 🛠 Technical Notes
 
-- **Math Rendering**: MathJax 3.2.2 renders all LaTeX math in browser (both markdown and PDF)
-- **Site Theme**: Customized Cayman theme with green gradient header
+- **Math Rendering**: MathJax 3.2.2 renders all LaTeX math in browser
+- **Site Theme**: Customized Cayman theme with green gradient header. Planning to experiment/change later.
 - **Deployment**: Automatic via GitHub Pages on every push to `main`
-- **Source Format**: Markdown (Jekyll) for web + LaTeX for detailed notes (dual-output architecture)
+- **Source Format**: Markdown (Jekyll) for web + LaTeX for detailed notes
 
 ## 📝 Contributing
 

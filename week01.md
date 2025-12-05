@@ -1,9 +1,9 @@
 ---
-title: "Week 1 : Introduction and Motivation"
+title: "Week 1: Preliminaries and Motivation"
 layout: default
 ---
 
-# Week 1 - Introduction and Motivation
+# Week 1: Preliminaries and Motivation
 
 **Reading:**  
 - I. Dolgachev: Lectures on Invariant Theory : Chapter 1
