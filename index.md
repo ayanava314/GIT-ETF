@@ -13,15 +13,13 @@ Here you'll find:
 
 ---
 
-## 📘 Weeks
+## 📘 Weekwise Topics:
 
 - [Week 1: Preliminaries and motivation](week01.md)
 
 ---
 
-## 📝 Notes
-
-[Complete course notes (PDF)](/notes/main.pdf) : updated weekly with all material covered
+## 📝 [Notes](/notes/main.pdf)
 
 ---
 
