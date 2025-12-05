@@ -39,7 +39,7 @@ This reading course covers:
 Visit the [published website](https://ayanava314.github.io/GIT-ETF/) to browse weekly summaries and download full notes.
 
 ### Contribute or Modify Content
-Signin to github to modify content/make suggestions/comment on pages. Will post a simple clone to push walkthrough later if needed.
+Sign in to GitHub to modify content/make suggestions/comment on pages. Will post a simple clone to push walkthrough later if needed.
 
 ## 📚 Using These Materials
 
