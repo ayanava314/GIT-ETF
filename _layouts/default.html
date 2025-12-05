@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -13,6 +14,38 @@
 
   <!-- Cayman theme CSS (embedded) -->
   <style>
+    /* CHROME-SPECIFIC FIXES FOR KATEX INSIDE GISCUS */
+@supports (-webkit-appearance:none) {
+
+  /* Improve font rendering in Chrome */
+  .giscus-frame .katex {
+      -webkit-font-smoothing: antialiased !important;
+      text-rendering: optimizeLegibility !important;
+      font-weight: 500 !important;
+  }
+
+  /* Fix thin blackboard bold */
+  .giscus-frame .katex .mathbb,
+  .giscus-frame .katex .bb {
+      font-weight: 700 !important;
+      text-shadow:
+        0.02em 0 0 currentColor,
+        -0.02em 0 0 currentColor,
+        0 0.02em 0 currentColor,
+        0 -0.02em 0 currentColor !important;
+  }
+
+  /* Fix Chrome’s thin parentheses and brackets */
+  .giscus-frame .katex .delimsizing {
+      font-weight: 600 !important;
+  }
+
+  /* Better fraction bars */
+  .giscus-frame .katex .mfrac .frac-line {
+      border-width: 0.07em !important;
+  }
+}
+
     @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
     @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700");
 
