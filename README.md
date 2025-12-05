@@ -26,6 +26,7 @@ This reading course covers:
 └── notes/
     ├── main.tex               # Master LaTeX document
     ├── week01.tex, ...        # Weekly detailed notes
+    ├── xx.aux,xx.bib,...      # Auxilaru files
     └── main.pdf               # Compiled notes
 ```
 
