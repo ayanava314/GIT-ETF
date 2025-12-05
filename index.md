@@ -25,7 +25,7 @@ Here you'll find:
 
 ---
 
-## 🔗 [Key References](/references/)
+## 🔗 [Key References](/references.md)
 
 - **Dolgachev** — *Lectures on Invariant Theory* (primary text)
 - **Waldron** — *An Introduction to Finite Tight Frames* (ETF reference)
