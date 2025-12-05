@@ -5,7 +5,7 @@ layout: default
 # Geometric Invariant Theory & Equiangular Tight Frames (ETF) : 2025 Reading Course
 A collaborative reading course exploring the mathematical foundations of Geometric Invariant Theory (GIT) and Equiangular Tight Frames. This repository contains weekly summaries, lecture notes, and discussion materials.
 
-**📍 Public Website:** https://ayanava314.github.io/GIT-ETF/
+**📍 Public Website:** [https://ayanava314.github.io/GIT-ETF/](https://ayanava314.github.io/GIT-ETF/)
 
 ## About This Course
 
