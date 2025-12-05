@@ -6,7 +6,7 @@ layout: default
 # Week 1 - Introduction and Motivation
 
 **Reading:**  
-- I. Dolgachev: Lectures on Invariant Theory — Chapter 1
+- I. Dolgachev: Lectures on Invariant Theory : Chapter 1
 
 **Topics:**  
 - What is ETF? How to define an affine variety 

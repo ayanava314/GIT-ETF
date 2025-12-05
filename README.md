@@ -1,4 +1,4 @@
-# Geometric Invariant Theory & Equiangular Tight Frames (ETF) — 2025 Reading Course
+# Geometric Invariant Theory & Equiangular Tight Frames (ETF) : 2025 Reading Course
 
 A collaborative reading course exploring the mathematical foundations of Geometric Invariant Theory (GIT) and Equiangular Tight Frames. This repository contains weekly summaries, lecture notes, and discussion materials.
 
@@ -15,17 +15,18 @@ This reading course covers:
 ```
 ├── README.md                  # This file
 ├── index.md                   # Course homepage
+├── references.md              # Course references
 ├── week01.md, week02.md, ...  # Weekly summaries (Jekyll markdown)
-├── _config.yml               # Jekyll site configuration
+├── _config.yml                # Jekyll site configuration
 ├── _layouts/
-│   └── default.html         # Custom site theme
+│   └── default.html           # Custom site theme
 ├── _includes/
-│   └── head.html            # MathJax CDN configuration
-├── references/               # Reference materials and readings
+│   └── head.html              # MathJax CDN configuration
+├── references/                # Reference materials and readings
 └── notes/
-    ├── main.tex             # Master LaTeX document
-    ├── week01.tex, week02.tex, ...  # Weekly detailed notes
-    └── main.pdf             # Compiled notes
+    ├── main.tex               # Master LaTeX document
+    ├── week01.tex, ...        # Weekly detailed notes
+    └── main.pdf               # Compiled notes
 ```
 
 ## 🚀 Quick Start
