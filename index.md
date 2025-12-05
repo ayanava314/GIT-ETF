@@ -19,17 +19,30 @@ Here you'll find:
 
 ---
 
-## 📝 Notes (PDFs)
+## 📝 Notes
 
-- [Full Notes](/notes/main.pdf)
+[Complete course notes (PDF)](/notes/main.pdf) — updated weekly with all material covered
 
 ---
 
-## 💬 Discussion
+## 🔗 [Key References](/references/)
 
-Use the **Issues** or **Discussions** tab to leave comments/questions.
+- **Dolgachev** — *Lectures on Invariant Theory* (primary text)
+- **Waldron** — *An Introduction to Finite Tight Frames* (ETF reference)
+- **Mumford, Fogarty, Kirwan** — *Geometric Invariant Theory* (classical reference)
 
-- For mathematical questions, label: `question`
-- For corrections, label: `typo`
-- For general discussion, label: `discussion`
+See [README](README.md) for more resources.
+
+---
+
+## 💬 Questions & Discussion
+
+Found a typo? Have a question? Want to discuss an approach?
+
+Use the **Issues** tab:
+- `question` — Mathematical questions or clarifications
+- `typo` — Errors in notes
+- `discussion` — Alternative ideas or deeper explorations
+
+Or start a **Discussion** thread for general conversation.
 
