@@ -15,7 +15,7 @@ Here you'll find:
 
 ## 📘 Weekwise Topics:
 
-- [Week 1: Preliminaries and motivation](week01.md)
+- [Week 1: Preliminaries and Motivation](week01.md)
 
 ---
 
