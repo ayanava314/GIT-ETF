@@ -10,8 +10,9 @@ A collaborative reading course exploring the mathematical foundations of Geometr
 ## About This Course
 
 This reading course covers:
-- **Geometric Invariant Theory**: Classical invariant theory through the lens of algebraic geometry (following Dolgachev's *Lectures on Invariant Theory*)
+- **Geometric Invariant Theory**: (following Dolgachev's *Lectures on Invariant Theory*)
 - **Equiangular Tight Frames**: Applications of GIT to Finite Equiangular Tight Frames
+- To be added later...
 
 ## 📁 Repository Structure
 
@@ -62,12 +63,6 @@ Each week includes:
 - **Waldron**: *An Introduction to Finite Tight Frames* (comprehensive ETF treatment)
 - *Equiangular Tight Frames* research papers (linked in weekly content)
 
-## 🛠 Technical Notes
-
-- **Math Rendering**: MathJax 3.2.2 renders all LaTeX math in browser
-- **Site Theme**: Customized Cayman theme with green gradient header. Planning to experiment/change later.
-- **Deployment**: Automatic via GitHub Pages on every push to `main`
-- **Source Format**: Markdown (Jekyll) for web + LaTeX for detailed notes
 
 ## 📝 Contributing
 
@@ -84,7 +79,7 @@ These materials are shared for educational purposes within the reading course co
 
 ---
 
-**Course Organizer**: Ayan and Prof. Gene Kopp
-**Year**: 2025  
+**Course Organizer**: Prof. Gene Kopp
+**Year**: 2026 
 **Questions?** Use the Issues/Discussions tab or email the organizer.
 
