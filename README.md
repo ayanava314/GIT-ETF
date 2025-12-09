@@ -73,13 +73,13 @@ Found an error? Have a suggestion?
 
 Please include context (week number, section) and be specific about proposed changes.
 
-## 📄 License
+## 📄 License(things are getting serious now)
 
 These materials are shared for educational purposes within the reading course community.
 
 ---
 
 **Course Organizer**: Prof. Gene Kopp and Ayan
-**Year**: 2026 
+**Year**: 2026-$\infty$ 
 **Questions?** Use the Issues/Discussions tab or email the organizer.
 
