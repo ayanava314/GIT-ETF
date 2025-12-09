@@ -80,6 +80,6 @@ These materials are shared for educational purposes within the reading course co
 ---
 
 **Course Organizer**: Prof. Gene Kopp and Ayan
-**Year**: 2026-$\infty$ 
+**Year**: 2026- $\infty$ 
 **Questions?** Use the Issues/Discussions tab or email the organizer.
 
