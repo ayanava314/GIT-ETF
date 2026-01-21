@@ -70,7 +70,7 @@ $$
 $$
 to be the subspace consisting of points satisfying:
 
-1. $$ \phi_i(v_i) = 1 $$
+1. $$ \phi_i(v_i) = 1 $$ $$ $$
 2. $$ \phi_i(v_j)\phi_j(v_i) = \dfrac{n-d}{d(n-1)}$$ for $$i \neq j $$
 3. $$ v_j = \frac{d}{n} \sum_{i=1}^{n} \phi_i(v_j)\, v_i $$
 
