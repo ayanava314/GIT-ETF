@@ -15,7 +15,7 @@ layout: default
 
 ## Motivation
 
-Let $V$ be a $K$-vector space where $K$ is algebraically closed.
+Let $$V$$ be a $$K$$-vector space where $$K$$ is algebraically closed.
 
 ### Frame
 Let
@@ -35,7 +35,7 @@ $$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$$
 
 ### Group actions
 
-- **Left action of $\mathrm{GL}(V)$:**
+- **Left action of $$\mathrm{GL}(V)$$:**
 $$
 M\big((v_i),(\phi_i)\big)
 =
@@ -82,10 +82,10 @@ to be the subspace consisting of points satisfying:
 
 ### **Big Questions**
 
-- What is $\mathrm{ETB}_n(V)$? Is it a variety?
-- When is $\dim \mathrm{ETB}_n(V) = 0$?  
+- What is $$\mathrm{ETB}_n(V)$$? Is it a variety?
+- When is $$\dim \mathrm{ETB}_n(V) = 0$$?  
   In that case, what is the number of points
-  $\#\,\mathrm{ETB}_n(V)$?
+  $$\#\,\mathrm{ETB}_n(V)$$?
 
 ---
 
