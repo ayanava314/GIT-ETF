@@ -42,7 +42,7 @@ M\big((v_i),(\phi_i)\big)
 \big((Mv_i),\; (v \mapsto \phi_i(M^{-1}v))\big)
 $$
 
-- **Right action of $(K^\times)^n \rtimes S_n$**  
+- **Right action of $$(K^\times)^n \rtimes S_n$$**  
   (scaling and permuting frames):
 
   - Scaling:
