@@ -70,9 +70,9 @@ $$
 $$
 to be the subspace consisting of points satisfying:
 
-1. $$ \phi_i(v_i) = 1 $$ (similar to unit norm)
-2. $$ \phi_i(v_j)\phi_j(v_i) = \frac{n-d}{d(n-1)}$$ for $$i \neq j $$
-3. $$ v_j = \frac{d}{n} \sum_\limits{i=1}^{n} \phi_i(v_j)\, v_i $$ (tightness)
+1. $$\phi_i(v_i) = 1 $$ (similar to unit norm)
+2. $$\phi_i(v_j)\phi_j(v_i) = \frac{n-d}{d(n-1)}$$ for $$i \neq j $$
+3. $$v_j = \frac{d}{n} \sum_\limits{i=1}^{n} \phi_i(v_j)\, v_i $$ (tightness)
 
 ---
 
