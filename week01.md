@@ -72,9 +72,7 @@ to be the subspace consisting of points satisfying:
 
 1. $$\phi_i(v_i) = 1$$
 2. $$\phi_i(v_j)\phi_j(v_i) = \dfrac{n-d}{d(n-1)}$$ for $$i \neq j$$
-3. $$
-   v_j = \frac{d}{n} \sum_{i=1}^{n} \phi_i(v_j)\, v_i
-   $$
+3. $$v_j = \frac{d}{n} \sum_{i=1}^{n} \phi_i(v_j)\, v_i$$
 
 ---
 
@@ -83,7 +81,7 @@ to be the subspace consisting of points satisfying:
 - What is $$\mathrm{ETB}_n(V)$$? Is it a variety?
 - When is $$\dim \mathrm{ETB}_n(V) = 0$$?  
   In that case, what is the number of points
-  $$\#\,\mathrm{ETB}_n(V)$$?
+  $$\#\mathrm{ETB}_n(V)$$?
 
 ---
 
