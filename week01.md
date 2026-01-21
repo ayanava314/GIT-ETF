@@ -9,8 +9,7 @@ layout: default
 - I. Dolgachev: Lectures on Invariant Theory : Chapter 1
 
 **Topics:**  
-- What is ETF? How to define an affine variety 
-  $V$ vector space over 
+- What is ETF?
 
 
 ## Motivation
@@ -30,8 +29,7 @@ be called a **frame**.
 
 ---
 
-We define actions of different groups on  
-$$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$$
+We define actions of different groups on $$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$$
 
 ### Group actions
 
