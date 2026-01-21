@@ -91,11 +91,11 @@ to be the subspace consisting of points satisfying:
 
 ### *Special Case*
 
-Let $K = \mathbb{C}$ and
+Let $$K = \mathbb{C}$$ and
 $$
 \phi_i(v) = \langle v_i, v \rangle .
 $$
-Then $(v_i)$ is called an **ETF** (*Equiangular Tight Frame*).
+Then $$(v_i)$$ is called an **ETF** (*Equiangular Tight Frame*).
 
 The defining conditions become:
 
