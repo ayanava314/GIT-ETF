@@ -81,7 +81,7 @@ to be the subspace consisting of points satisfying:
 - What is $$\mathrm{ETB}_n(V)$$? Is it a variety?
 - When is $$\dim \mathrm{ETB}_n(V) = 0$$?  
   In that case, what is the number of points
-  $$\#\mathrm{ETB}_n(V)$$?
+  $$ \#\mathrm{ETB}_n(V)$$?
 
 ---
 
