@@ -108,7 +108,7 @@ The defining conditions become:
 
 3. **Tight**
    $$
-   v = \frac{d}{n} \sum_{i=1}^{n} \langle v_i, v \rangle v_i
+   v = \frac{d}{n} \sum\limits_{i=1}^{n} \langle v_i, v \rangle v_i
    $$
 
 ---
