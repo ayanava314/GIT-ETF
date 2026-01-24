@@ -25,7 +25,7 @@ v_i \neq \lambda v_j \text{ for } i \neq j,\;
 \operatorname{span}\{v_i\} = V
 \right\}
 $$
-be called  **set of frame**.
+be called  **set of frames**.
 
 ---
 
