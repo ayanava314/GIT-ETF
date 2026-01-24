@@ -25,11 +25,11 @@ v_i \neq \lambda v_j \text{ for } i \neq j,\;
 \operatorname{span}\{v_i\} = V
 \right\}
 $$
-be called a **frame**.
+be called  **set of frame**.
 
 ---
 
-We define actions of different groups on $$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$$
+We define actions of different groups on $$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$$ to define equivalence between frames:
 
 ### Group actions
 
