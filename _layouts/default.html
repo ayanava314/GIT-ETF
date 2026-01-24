@@ -12,7 +12,9 @@
           id="MathJax-script" async></script>
 
   <style>
-
+/* ======================================================
+   GISCUS / CHROME KATEX FIXES
+   ====================================================== */
 @supports (-webkit-appearance:none) {
   .giscus-frame .katex {
     -webkit-font-smoothing: antialiased !important;
@@ -39,9 +41,9 @@
   }
 }
 
-/* ================================
-   BASE THEME (CAYMAN-LIKE)
-   ================================ */
+/* ======================================================
+   BASE THEME (CAYMAN-STYLE)
+   ====================================================== */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700");
 
@@ -60,9 +62,9 @@ body {
   line-height: 1.6;
 }
 
-/* ================================
+/* ======================================================
    TOP NAV BAR
-   ================================ */
+   ====================================================== */
 .site-nav {
   background: #0f2a44;
   border-bottom: 3px solid var(--accent);
@@ -84,6 +86,11 @@ body {
   text-decoration: none;
 }
 
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+
 .nav-links a {
   margin-left: 1.2rem;
   color: #e6eef6;
@@ -96,24 +103,83 @@ body {
   color: #ffffff;
 }
 
+/* Active page highlight */
+.nav-links a.active {
+  text-decoration: underline;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* ======================================================
+   DROPDOWN (WEEKLY LOGS)
+   ====================================================== */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 1.2rem;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+  color: #e6eef6;
+  font-weight: 500;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background: #0f2a44;
+  min-width: 140px;
+  margin-top: 0.4rem;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 0.5rem 0.8rem;
+  color: #e6eef6;
+  text-decoration: none;
+}
+
+.dropdown-menu a:hover {
+  background: rgba(255,255,255,0.08);
+}
+
+.dropdown-menu a.active {
+  font-weight: 700;
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
 /* Mobile */
 @media (max-width: 768px) {
   .nav-inner {
     flex-direction: column;
     align-items: flex-start;
   }
+
   .nav-links {
     margin-top: 0.4rem;
+    flex-wrap: wrap;
   }
-  .nav-links a {
+
+  .nav-links a,
+  .dropdown {
     margin-left: 0;
     margin-right: 1rem;
+    margin-top: 0.3rem;
   }
 }
 
-/* ================================
+/* ======================================================
    TITLE BANNER
-   ================================ */
+   ====================================================== */
 .site-header {
   background: linear-gradient(120deg, var(--accent), var(--accent2));
   color: white;
@@ -132,9 +198,9 @@ body {
   font-size: 1.1rem;
 }
 
-/* ================================
+/* ======================================================
    MAIN CONTENT
-   ================================ */
+   ====================================================== */
 main {
   max-width: 860px;
   margin: 2rem auto;
@@ -178,15 +244,44 @@ pre {
   <!-- TOP NAVIGATION -->
   <nav class="site-nav">
     <div class="nav-inner">
+
       <a href="{{ '/' | relative_url }}" class="nav-title">
         GIT–ETF
       </a>
+
       <div class="nav-links">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/notes/main.pdf' | relative_url }}">Main PDF</a>
-        <a href="{{ '/week01.html' | relative_url }}">Weekly Logs</a>
-        <a href="{{ '/links.html' | relative_url }}">Links</a>
-        <a href="https://github.com/ayanava314/GIT-ETF" target="_blank">GitHub</a>
+
+        <a href="{{ '/' | relative_url }}"
+           class="{% if page.url == '/' %}active{% endif %}">
+          Home
+        </a>
+
+        <a href="{{ '/notes/main.pdf' | relative_url }}">
+          Main PDF
+        </a>
+
+        <!-- Weekly Logs Dropdown -->
+        <div class="dropdown">
+          <span class="dropdown-toggle">
+            Weekly Logs ▾
+          </span>
+          <div class="dropdown-menu">
+            <a href="{{ '/week01.html' | relative_url }}"
+               class="{% if page.url contains 'week01' %}active{% endif %}">
+              Week 1
+            </a>
+          </div>
+        </div>
+
+        <a href="{{ '/references.html' | relative_url }}"
+           class="{% if page.url contains 'references' %}active{% endif %}">
+          References
+        </a>
+
+        <a href="https://github.com/ayanava314/GIT-ETF" target="_blank">
+          GitHub
+        </a>
+
       </div>
     </div>
   </nav>
@@ -206,10 +301,12 @@ pre {
 
   <!-- COMMENTS -->
   <hr>
-  <div id="comments" style="max-width:860px;margin:0 auto 3rem auto;padding:0 1.2rem;">
+  <div id="comments"
+       style="max-width:860px;margin:0 auto 3rem auto;padding:0 1.2rem;">
     <h2>Comments</h2>
     <p><em>
-      Note: Math in comments may render better in Firefox than Chrome due to browser font handling.
+      Note: Math in comments may render better in Firefox/other browsers than Chrome due to
+      browser font handling.
     </em></p>
 
     <script src="https://giscus.app/client.js"
