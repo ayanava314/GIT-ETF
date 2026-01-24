@@ -17,7 +17,7 @@ Here you'll find:
 
 - [Week 1: Preliminaries and Motivation](week01.md)
 
-### 📝 [Notes](/notes/main.pdf)
+#### 📝 [Notes](/notes/main.pdf)
 
 ---
 
