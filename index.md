@@ -19,9 +19,8 @@ Here you'll find:
 
 ---
 
-## 📝 [Notes](/notes/main.pdf)
+### 📝 [Notes](/notes/main.pdf)
 
----
 
 ## 🔗 Key References[(PDF)](/references.md)
 
