@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,151 +11,223 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"
           id="MathJax-script" async></script>
 
-  <!-- Cayman theme CSS (embedded) -->
   <style>
-    /* CHROME-SPECIFIC FIXES FOR KATEX INSIDE GISCUS */
-@supports (-webkit-appearance:none) {
 
-  /* Improve font rendering in Chrome */
+@supports (-webkit-appearance:none) {
   .giscus-frame .katex {
-      -webkit-font-smoothing: antialiased !important;
-      text-rendering: optimizeLegibility !important;
-      font-weight: 500 !important;
+    -webkit-font-smoothing: antialiased !important;
+    text-rendering: optimizeLegibility !important;
+    font-weight: 500 !important;
   }
 
-  /* Fix thin blackboard bold */
   .giscus-frame .katex .mathbb,
   .giscus-frame .katex .bb {
-      font-weight: 700 !important;
-      text-shadow:
-        0.02em 0 0 currentColor,
-        -0.02em 0 0 currentColor,
-        0 0.02em 0 currentColor,
-        0 -0.02em 0 currentColor !important;
+    font-weight: 700 !important;
+    text-shadow:
+      0.02em 0 0 currentColor,
+      -0.02em 0 0 currentColor,
+      0 0.02em 0 currentColor,
+      0 -0.02em 0 currentColor !important;
   }
 
-  /* Fix Chrome’s thin parentheses and brackets */
   .giscus-frame .katex .delimsizing {
-      font-weight: 600 !important;
+    font-weight: 600 !important;
   }
 
-  /* Better fraction bars */
   .giscus-frame .katex .mfrac .frac-line {
-      border-width: 0.07em !important;
+    border-width: 0.07em !important;
   }
 }
 
-    @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
-    @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700");
+/* ================================
+   BASE THEME (CAYMAN-LIKE)
+   ================================ */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700");
 
-    :root {
-      --bg: #f6f8fa;
-      --text: #24292e;
-      --accent: #159957;
-      --accent2: #155799;
-    }
+:root {
+  --bg: #f6f8fa;
+  --text: #24292e;
+  --accent: #159957;
+  --accent2: #155799;
+}
 
-    body {
-      margin: 0;
-      font-family: "Open Sans", sans-serif;
-      color: var(--text);
-      background: var(--bg);
-      line-height: 1.6;
-    }
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.6;
+}
 
-    header {
-      background: linear-gradient(120deg, var(--accent), var(--accent2));
-      color: white;
-      padding: 3rem 1rem;
-      text-align: center;
-    }
+/* ================================
+   TOP NAV BAR
+   ================================ */
+.site-nav {
+  background: #0f2a44;
+  border-bottom: 3px solid var(--accent);
+}
 
-    header h1 {
-      margin: 0;
-      font-weight: 700;
-      font-size: 2.4rem;
-    }
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.6rem 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
-    header p {
-      margin-top: 0.5rem;
-      font-size: 1.15rem;
-    }
-    
+.nav-title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
 
-    main {
-      max-width: 860px;
-      margin: 2rem auto;
-      padding: 0 1.2rem;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      padding-bottom: 2rem;
-    }
+.nav-links a {
+  margin-left: 1.2rem;
+  color: #e6eef6;
+  text-decoration: none;
+  font-weight: 500;
+}
 
-    main h1, main h2, main h3 {
-      border-bottom: 1px solid #eaecef;
-      padding-bottom: 0.3em;
-      margin-top: 2rem;
-    }
+.nav-links a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
 
-    a {
-      color: var(--accent2);
-      text-decoration: none;
-    }
+/* Mobile */
+@media (max-width: 768px) {
+  .nav-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav-links {
+    margin-top: 0.4rem;
+  }
+  .nav-links a {
+    margin-left: 0;
+    margin-right: 1rem;
+  }
+}
 
-    a:hover {
-      text-decoration: underline;
-    }
+/* ================================
+   TITLE BANNER
+   ================================ */
+.site-header {
+  background: linear-gradient(120deg, var(--accent), var(--accent2));
+  color: white;
+  padding: 2.5rem 1rem;
+  text-align: center;
+}
 
-    pre, code {
-      background: #f0f0f0;
-      padding: 0.2rem 0.4rem;
-      font-family: "Roboto Mono", monospace;
-      border-radius: 4px;
-    }
+.site-header h1 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 2.2rem;
+}
 
-    pre {
-      padding: 1rem;
-      overflow-x: auto;
-    }
+.site-header p {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
+/* ================================
+   MAIN CONTENT
+   ================================ */
+main {
+  max-width: 860px;
+  margin: 2rem auto;
+  padding: 0 1.2rem 2rem 1.2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+main h1, main h2, main h3 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+  margin-top: 2rem;
+}
+
+a {
+  color: var(--accent2);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+pre, code {
+  background: #f0f0f0;
+  padding: 0.2rem 0.4rem;
+  font-family: "Roboto Mono", monospace;
+  border-radius: 4px;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
   </style>
 </head>
 
 <body>
 
-  <header>
+  <!-- TOP NAVIGATION -->
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <a href="{{ '/' | relative_url }}" class="nav-title">
+        GIT–ETF
+      </a>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/notes/main.pdf' | relative_url }}">Main PDF</a>
+        <a href="{{ '/week01.html' | relative_url }}">Weekly Logs</a>
+        <a href="{{ '/links.html' | relative_url }}">Links</a>
+        <a href="https://github.com/ayanava314/GIT-ETF" target="_blank">GitHub</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- TITLE BANNER -->
+  <header class="site-header">
     <h1>{{ site.title }}</h1>
     {% if site.description %}
     <p>{{ site.description }}</p>
     {% endif %}
   </header>
 
+  <!-- MAIN CONTENT -->
   <main>
     {{ content }}
   </main>
 
+  <!-- COMMENTS -->
   <hr>
-<div id="comments">
-  <h2>Comments:</h2>
-  <h2>(Use Firefox or a different browser for a proper math font, sometimes Chrome messes it up) </h2>
-  <!-- Giscus -->
-  <script src="https://giscus.app/client.js"
-        data-repo="ayanava314/GIT-ETF"
-        data-repo-id="R_kgDOQiqcHA"
-        data-category="General"
-        data-category-id="DIC_kwDOQiqcHM4CzaMU"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
-</div>
-  
-</body>
+  <div id="comments" style="max-width:860px;margin:0 auto 3rem auto;padding:0 1.2rem;">
+    <h2>Comments</h2>
+    <p><em>
+      Note: Math in comments may render better in Firefox than Chrome due to browser font handling.
+    </em></p>
 
+    <script src="https://giscus.app/client.js"
+      data-repo="ayanava314/GIT-ETF"
+      data-repo-id="R_kgDOQiqcHA"
+      data-category="General"
+      data-category-id="DIC_kwDOQiqcHM4CzaMU"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="light"
+      data-lang="en"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </div>
+
+</body>
 </html>
