@@ -113,29 +113,41 @@ body {
 /* ======================================================
    DROPDOWN (WEEKLY LOGS)
    ====================================================== */
+
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-left: 1.2rem;
 }
 
+/* Make the hover target taller */
 .dropdown-toggle {
+  display: inline-block;
+  padding: 0.4rem 0.2rem;
   cursor: pointer;
   color: #e6eef6;
   font-weight: 500;
+  text-decoration: none;
 }
 
+/* Dropdown menu */
 .dropdown-menu {
   display: none;
   position: absolute;
+  top: 100%;
+  left: 0;
   background: #0f2a44;
   min-width: 140px;
-  margin-top: 0.4rem;
   border-radius: 4px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
   z-index: 10;
+  padding-top: 0.3rem;
 }
 
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* Menu links */
 .dropdown-menu a {
   display: block;
   padding: 0.5rem 0.8rem;
@@ -153,9 +165,6 @@ body {
   color: #ffffff;
 }
 
-.dropdown:hover .dropdown-menu {
-  display: block;
-}
 
 /* Mobile */
 @media (max-width: 768px) {
@@ -262,16 +271,18 @@ pre {
 
         <!-- Weekly Logs Dropdown -->
         <div class="dropdown">
-          <span class="dropdown-toggle">
-            Weekly Logs ▾
-          </span>
-          <div class="dropdown-menu">
-            <a href="{{ '/week01.html' | relative_url }}"
-               class="{% if page.url contains 'week01' %}active{% endif %}">
-              Week 1
+            <a class="dropdown-toggle">
+              Weekly Logs ▾
             </a>
-          </div>
-        </div>
+
+            <div class="dropdown-menu">
+              <a href="{{ '/week01.html' | relative_url }}"
+                 class="{% if page.url contains 'week01' %}active{% endif %}">
+                  Week 1
+              </a>
+            </div>
+         </div>
+
 
         <a href="{{ '/references.html' | relative_url }}"
            class="{% if page.url contains 'references' %}active{% endif %}">
