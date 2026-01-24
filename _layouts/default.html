@@ -391,5 +391,35 @@ pre {
     </script>
   </div>
 
+
+  <!-- Hide-on-scroll logic -->
+<script>
+  (function () {
+    let lastScrollY = window.scrollY;
+    const nav = document.querySelector('.site-nav');
+
+    if (!nav) return; // safety guard
+
+    // initial state
+    nav.classList.add('nav-visible');
+
+    window.addEventListener('scroll', () => {
+      const currentScrollY = window.scrollY;
+
+      if (currentScrollY > lastScrollY && currentScrollY > 80) {
+        // scrolling down
+        nav.classList.remove('nav-visible');
+        nav.classList.add('nav-hidden');
+      } else {
+        // scrolling up
+        nav.classList.remove('nav-hidden');
+        nav.classList.add('nav-visible');
+      }
+
+      lastScrollY = currentScrollY;
+    });
+  })();
+</script>
+
 </body>
 </html>
