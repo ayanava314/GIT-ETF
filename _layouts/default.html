@@ -69,6 +69,34 @@ body {
   background: #0f2a44;
   border-bottom: 3px solid var(--accent);
 }
+/* ===== STICKY + HIDE-ON-SCROLL NAV (ADDED) ===== */
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  /* animation */
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Hidden state */
+.site-nav.nav-hidden {
+  transform: translateY(-100%);
+  box-shadow: none;
+}
+
+/* Visible + elevated state */
+.site-nav.nav-visible {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* Prevent anchor jumps hiding under nav */
+main {
+  scroll-margin-top: 4.2rem;
+}
+
 
 .nav-inner {
   max-width: 1100px;
@@ -247,6 +275,32 @@ pre {
 }
   </style>
 </head>
+
+
+<!-- Hide-on-scroll logic (ADDED) -->
+<script>
+  let lastScrollY = window.scrollY;
+  const nav = document.querySelector('.site-nav');
+
+  // initial state
+  nav.classList.add('nav-visible');
+
+  window.addEventListener('scroll', () => {
+    const currentScrollY = window.scrollY;
+
+    if (currentScrollY > lastScrollY && currentScrollY > 80) {
+      // scrolling down
+      nav.classList.remove('nav-visible');
+      nav.classList.add('nav-hidden');
+    } else {
+      // scrolling up
+      nav.classList.remove('nav-hidden');
+      nav.classList.add('nav-visible');
+    }
+
+    lastScrollY = currentScrollY;
+  });
+</script>
 
 <body>
 
