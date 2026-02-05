@@ -9,13 +9,12 @@ layout: default
 - I. Dolgachev: Lectures on Invariant Theory : Chapter 1
 
 **Topics:**  
-- What is ETF? How to define an affine variety 
-  $V$ vector space over 
+- What is ETF?
 
 
 ## Motivation
 
-Let $V$ be a $K$-vector space where $K$ is algebraically closed.
+Let $$V$$ be a $$K$$-vector space where $$K$$ is algebraically closed.
 
 ### Frame
 Let
@@ -26,23 +25,22 @@ v_i \neq \lambda v_j \text{ for } i \neq j,\;
 \operatorname{span}\{v_i\} = V
 \right\}
 $$
-be called a **frame**.
+be called  **set of frames**.
 
 ---
 
-We define actions of different groups on  
-$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$.
+We define actions of different groups on $$\mathrm{Fr}_n(V) \times \mathrm{Fr}_n(V^*)$$ to define equivalence between frames:
 
 ### Group actions
 
-- **Left action of $\mathrm{GL}(V)$:**
+- **Left action of $$\mathrm{GL}(V)$$:**
 $$
 M\big((v_i),(\phi_i)\big)
 =
 \big((Mv_i),\; (v \mapsto \phi_i(M^{-1}v))\big)
 $$
 
-- **Right action of $(K^\times)^n \rtimes S_n$**  
+- **Right action of $$(K^\times)^n \rtimes S_n$$**  
   (scaling and permuting frames):
 
   - Scaling:
@@ -72,30 +70,28 @@ $$
 $$
 to be the subspace consisting of points satisfying:
 
-1. $\phi_i(v_i) = 1$
-2. $\phi_i(v_j)\phi_j(v_i) = \dfrac{n-d}{d(n-1)}$ for $i \neq j$
-3. $$
-   v_j = \frac{d}{n} \sum_{i=1}^{n} \phi_i(v_j)\, v_i
-   $$
+1. $$\phi_i(v_i) = 1 $$ (similar to unit norm)
+2. $$\phi_i(v_j)\phi_j(v_i) = \frac{n-d}{d(n-1)}$$ for $$i \neq j $$
+3. $$v_j = \frac{d}{n} \sum_\limits{i=1}^{n} \phi_i(v_j)\, v_i $$ (tightness)
 
 ---
 
 ### **Big Questions**
 
-- What is $\mathrm{ETB}_n(V)$? Is it a variety?
-- When is $\dim \mathrm{ETB}_n(V) = 0$?  
+- What is $$\mathrm{ETB}_n(V)$$? Is it a variety?
+- When is $$\dim \mathrm{ETB}_n(V) = 0$$?  
   In that case, what is the number of points
-  $\#\,\mathrm{ETB}_n(V)$?
+  $$ \#\mathrm{ETB}_n(V)$$?
 
 ---
 
 ### *Special Case*
 
-Let $K = \mathbb{C}$ and
+Let $$K = \mathbb{C}$$ and
 $$
 \phi_i(v) = \langle v_i, v \rangle .
 $$
-Then $(v_i)$ is called an **ETF** (*Equiangular Tight Frame*).
+Then $$(v_i)$$ is called an **ETF** (*Equiangular Tight Frame*).
 
 The defining conditions become:
 
@@ -112,7 +108,7 @@ The defining conditions become:
 
 3. **Tight**
    $$
-   v = \frac{d}{n} \sum_{i=1}^{n} \langle v_i, v \rangle v_i
+   v = \frac{d}{n} \sum\limits_{i=1}^{n} \langle v_i, v \rangle v_i
    $$
 
 ---

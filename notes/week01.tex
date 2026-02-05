@@ -1,13 +1,16 @@
+<<<<<<< HEAD
 \chapter{Motivation}
 
 
+=======
+\section{Motivation:}
+>>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
 Let $ V $ be a $ K $ vector space where $ K $ is algebraically closed.
-
 \begin{definition}
-	Let $ Fr_n(V) := \{(v_i)_{i=1}^{n}\in V^n \mid v_i\ne \lambda v_j, $ for  $i\ne j, $  $span(\{v_i\})=V \} $ be called frame.
+	Let $ Fr_n(V) := \{(v_i)_{i=1}^{n} \in V^n \mid v_i\ne \lambda v_j, $ for  $i\ne j, $  $span(\{v_i\})=V \} $ be called set of frames.
 \end{definition} 
 
-We define some actions of different groups on $ Fr_n(V)\times Fr_n(V^*) $:
+We define some actions of different groups on $ Fr_n(V)\times Fr_n(V^*) $ to get a notion of equivalent frames:
 
 \begin{itemize}
 	\item $ GL(V) $ acts on the left as : $ M((v_i),(\phi_i)) = ((Mv_i),(v \mapsto \phi_i(M^{-1}v))) $
@@ -25,20 +28,24 @@ We define some actions of different groups on $ Fr_n(V)\times Fr_n(V^*) $:
 		\item $ v_j = \frac{d}{n} \sum\limits_{i=1}^{n} \phi_i(v_j)v_i $
 	\end{enumerate}
 \end{definition}
-
-\vspace{0.2in}
+\noindent
 $\underline{\text{Now the \textbf{BIG QUESTIONS} are:}}$ 
 \begin{itemize}
 	\item what is $ ETB_n(V) $? Variety? 
 	\item when is dimension of $ ETB_n(V)$ zero? In that case, what is the number of points $ \# ETB_n(V) $?
 \end{itemize}
+\pagebreak
+\noindent
+$\underline{\textit{Special Case: Equiangular Tight Frames}}$\\
 
-$\underline{\textit{Special Case:}}$\\
-
-$ K = \mathbb{C}, \phi_i(v) = \langle v_i,v \rangle= \bar{v_i},v $ is called $ \textbf{ETF} $ Equiangular Tight Frames...
+$ K = \mathbb{C}$ complex numbers, $\phi_i= v_i^\dagger \implies\phi_i(v) = \langle v_i,v \rangle= v_i^\dagger v $  is called $ \textbf{ETF} $.
 \begin{enumerate}
 	\item unit norm: $ \langle v_i,v_i\rangle =1 $
 	\item equiangular: $ \mid \langle v_i,v_j\rangle \mid ^2 = \dfrac{n-d}{d(n-1)}  $ 
 	\item tight: $ v = \frac{d}{n}\sum\limits_{i=1}^n \langle v_i,v \rangle v_i $
 \end{enumerate}
 
+<<<<<<< HEAD
+=======
+\section{Motivation for GIT}
+>>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
