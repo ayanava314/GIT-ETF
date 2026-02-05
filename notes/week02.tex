@@ -1,0 +1,109 @@
+
+
+\chapter{Polarization and Restitution:}
+
+\section{Invariant functions, quotients, and finite generation}
+
+\subsection{Invariant functions.}
+Let $k$ be an algebraically closed field and let $G$ be an algebraic group acting on an affine variety
+$X = \Specm A$, where $A$ is a finitely generated $k$-algebra.
+The action of $G$ on $X$ is equivalently given by a rational action of $G$ on $A$ by $k$-algebra automorphisms.
+We define the ring of \emph{invariant functions} by
+\[
+A^G := \{ f \in A \mid g \cdot f = f \text{ for all } g \in G \}.
+\]
+
+\begin{remark}[Geometric meaning]
+	An invariant function is constant along $G$-orbits.
+	Thus $A^G$ measures exactly the functions on $X$ that cannot distinguish points inside a single orbit.
+	The philosophy of GIT is that the quotient space should have coordinate ring $A^G$.
+\end{remark}
+
+\subsection{Spec vs.\ Specm.}
+There are two closely related spaces associated to a ring $A^G$:
+\[
+\Spec A^G \quad \text{and} \quad \Specm A^G.
+\]
+The maximal spectrum $\Specm A^G$ corresponds to closed points, while $\Spec A^G$ includes also
+generic points encoding specialization relations.
+
+\begin{remark}
+	In algebraic geometry, $\Spec A^G$ is the correct object for forming quotients.
+	Even when one is interested in closed orbits (points), non-closed orbits play a crucial role, and
+	their closures are naturally encoded in $\Spec A^G$, not in $\Specm A^G$.
+\end{remark}
+
+\begin{example}
+Let $G = \mathbb{Z}/2$ act on $A = k[x,y]$ by
+\[
+\sigma(x) = y, \qquad \sigma(y) = x.
+\]
+Then the invariant ring is
+\[
+A^G = k[x+y,\, xy].
+\]
+
+
+	The morphism
+	\[
+	\pi : \mathbb{A}^2 \to \mathbb{A}^2, \qquad (x,y) \mapsto (x+y, xy)
+	\]
+	is $G$-invariant and induces an isomorphism
+	\[
+	\Spec k[x+y,xy] \cong \Spec A^G.
+	\]
+	Geometrically, $\pi$ identifies the points $(x,y)$ and $(y,x)$, and separates distinct orbits except
+	when $(x,y)$ and $(y,x)$ lie in the same orbit closure.
+	In particular, invariant functions separate \emph{closed} orbits but may fail to separate non-closed ones.
+\end{example}
+
+\begin{remark}[Key phenomenon]
+	The fibers of $\pi$ are precisely orbit closures, not individual orbits.
+	This is the fundamental reason the GIT quotient is a \emph{categorical} quotient rather than a geometric one.
+\end{remark}
+
+\subsection{Affine schemes and schemes.}
+An \emph{affine scheme} is a space of the form $\Spec A$ for a ring $A$.
+A \emph{scheme} is obtained by gluing affine schemes along open subsets.
+Thus schemes are locally affine objects.
+
+\begin{remark}
+	For an affine scheme $X = \Spec A$, one has a canonical identification
+	\[
+	A \cong \mathcal{O}_X(X).
+	\]
+	This property characterizes affine schemes among all schemes.
+\end{remark}
+
+\subsection{Quotients and finite generation.}
+Given an affine $G$-variety $X = \Spec A$, a natural candidate for the quotient is
+\[
+X /\!/ G := \Spec A^G.
+\]
+This construction only makes sense if $A^G$ is finitely generated as a $k$-algebra.
+
+\begin{theorem}[Hilbert, classical form]
+	If $G$ is a reductive algebraic group acting rationally on a finitely generated $k$-algebra $A$,
+	then $A^G$ is finitely generated.
+\end{theorem}
+
+\begin{remark}[Why reductivity matters]
+	Reductive groups have enough invariant linear functionals to control the growth of invariants.
+	For non-reductive groups, invariant rings can be pathologically large.
+\end{remark}
+
+\subsection{Hilbert's 14th problem and Nagata's counterexample.}
+Hilbert asked whether $A^G$ is finitely generated for \emph{every} linear action of an algebraic group.
+This is false.
+
+\begin{theorem}[Nagata]
+	There exists a linear action of a unipotent algebraic group $G$ on a polynomial ring $A$
+	such that the invariant ring $A^G$ is not finitely generated.
+\end{theorem}
+
+\begin{remark}[Conceptual takeaway]
+	Finite generation is not a formal property of group actions; it is a deep structural fact tied to
+	reductivity.
+	GIT works precisely because it restricts attention to reductive group actions, where quotients
+	exist as affine schemes of finite type.
+\end{remark}
