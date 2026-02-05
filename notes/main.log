@@ -1,19 +1,14 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.30)  3 FEB 2026 12:56
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.26)  26 JAN 2026 23:53
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.30)  5 FEB 2026 12:31
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ayana/Desktop/Math Projects/GIT-ETF/notes/main.tex"
-(c:/Users/ayana/Desktop/Math Projects/GIT-ETF/notes/main.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-29>
-(C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+**main.tex
+(./main.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
 File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -28,25 +23,32 @@ File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks18
 \thm@bodyfont=\toks19
@@ -57,21 +59,25 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip52
 \thm@headsep=\skip53
 \dth@everypar=\toks23
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2025/07/09 v2.17z AMS math features
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
 \@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen151
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen152
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count284
@@ -119,33 +125,57 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip55
 \multlinetaggap=\skip56
 \mathdisplay@stack=\toks28
-LaTeX Info: Redefining \[ on input line 2950.
-LaTeX Info: Redefining \] on input line 2951.
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.
+sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.st
+y
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil
+-common.tex
 \pgfutil@everybye=\toks29
 \pgfutil@tempdima=\dimen160
 \pgfutil@tempdimb=\dimen161
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil
+-latex.def
 \pgfutil@abb=\box55
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.
+code.tex
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.
+sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.
+sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsy
+s.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys
+.code.tex
 \pgfkeys@pathtoks=\toks30
 \pgfkeys@temptoks=\toks31
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys
+libraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks32
 ))
 \pgf@x=\dimen162
@@ -168,27 +198,39 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \t@pgf@tokb=\toks34
 \t@pgf@tokc=\toks35
 \pgf@sys@id@count=\count300
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.c
+fg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsy
+s-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsy
+s-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+)))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsy
+ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count301
 \pgfsyssoftpath@bigbuffer@items=\count302
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsy
+sprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -198,18 +240,52 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+e.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code
+.tex
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.
+code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparse
+r.code.tex
 \pgfmath@dimen=\dimen172
 \pgfmath@count=\count303
 \pgfmath@box=\box56
 \pgfmath@toks=\toks36
 \pgfmath@stack@operand=\toks37
 \pgfmath@stack@operation=\toks38
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.basic.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.trigonometric.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.random.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.comparison.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.base.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.round.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.misc.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunct
+ions.integerarithmetics.code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.
+code.tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat
+.code.tex
 \c@pgfmathroundto@lastzeros=\count304
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.
+tex)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+epoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen173
 \pgf@picmaxx=\dimen174
@@ -225,75 +301,130 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen184
 \pgf@zx=\dimen185
 \pgf@zy=\dimen186
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen187
 \pgf@path@lasty=\dimen188
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+epathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen189
 \pgf@shorten@start@additional=\dimen190
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+escopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box57
 \pgf@hbox=\box58
 \pgf@layerbox@main=\box59
 \pgf@picture@serial@count=\count305
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen191
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+etransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen192
 \pgf@pt@y=\dimen193
 \pgf@pt@temp=\dimen194
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+equick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+eobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+epathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+earrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen195
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+eshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen196
 \pgf@sys@shading@range@num=\count306
 \pgf@shadingcount=\count307
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+eimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+eexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box60
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+elayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+etransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+epatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcor
+erdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+)))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodule
+shapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box61
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodule
+plot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfco
+mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen197
 \pgf@nodesepend=\dimen198
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfco
+mp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.st
+y
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.s
+ty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys
+.code.tex))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code
+.tex))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.
+code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen199
 \pgffor@skip=\dimen256
 \pgffor@stack=\toks39
 \pgffor@toks=\toks40
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibr
+aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count308
 \pgfplotmarksize=\dimen257
@@ -314,17 +445,22 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count310
 \tikznumberofcurrentchild=\count311
 \tikz@fig@count=\count312
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodule
+matrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count313
 \pgfmatrixcurrentcolumn=\count314
 \pgf@matrix@numberofcolumns=\count315
 )
 \tikz@expandcount=\count316
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
-Package: bm 2025/10/21 v1.2g Bold Symbol Support (DPC/FMi)
+)))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
 \symboldsymbols=\mathgroup8
@@ -332,9 +468,10 @@ Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count317
 \calc@Bcount=\count318
@@ -346,7 +483,8 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count319
 \calc@Cskip=\skip59
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count320
@@ -360,15 +498,20 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen274
 \xmathstrut@box=\box66
 \xmathstrut@dim=\dimen275
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write4
- Excluding comment 'comment') (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+
+Excluding comment 'comment')
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen276
 \lightrulewidth=\dimen277
@@ -387,11 +530,14 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count323
 \@lastruleclass=\count324
 \@thisrulewidth=\dimen288
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count325
@@ -406,34 +552,43 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen295
 \Gm@layoutvoffset=\dimen296
 \Gm@dimlist=\toks41
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thm-restate.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thm-restate.st
+y
 Package: thm-restate 2023/05/04 v0.76
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thmtools.sty
+ (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thmtools.sty
 Package: thmtools 2023/05/04 v0.76
 \thmt@toks=\toks42
 \c@thmt@dummyctr=\count328
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thm-patch.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thm-patch.sty
 Package: thm-patch 2023/05/04 v0.76
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\parseargs.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/parseargs.sty
 Package: parseargs 2023/05/04 v0.76
 \@parsespec=\toks43
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thm-kv.sty
+)) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thm-kv.sty
 Package: thm-kv 2023/05/04 v0.76
 Package thm-kv Info: Theorem names will be uppercased on input line 42.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
 Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 158.
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thm-autoref.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thm-autoref.st
+y
 Package: thm-autoref 2023/05/04 v0.76
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\aliasctr.sty
+ (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/aliasctr.sty
 Package: aliasctr 2023/05/04 v0.76
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thm-listof.sty
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thm-listof.sty
 Package: thm-listof 2023/05/04 v0.76
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/thmtools\thm-amsthm.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
 Package: thm-amsthm 2023/05/04 v0.76
 \thmt@style@headstyle=\toks44
-))) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip61
 \enit@outerparindent=\dimen297
@@ -441,26 +596,34 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box67
 \enit@count@id=\count329
 \enitdp@description=\count330
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
 Package: todonotes 2024/01/05
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks46
 \XKV@tempa@toks=\toks47
 )
 \XKV@depth=\count331
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 \c@@todonotes@numberoftodonotes=\count332
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen298
 \captionmargin=\dimen299
@@ -479,30 +642,38 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count335
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count336
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count337
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count338
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -559,13 +730,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip69
 \blx@bcfin=\read3
 \blx@bcfout=\write5
-\blx@langwohyphens=\language79
+\blx@langwohyphens=\language90
 \c@mincomprange=\count382
 \c@maxcomprange=\count383
 \c@mincompwidth=\count384
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -654,12 +826,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip83
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+ (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count453
 \c@textcitetotal=\count454
@@ -677,18 +850,24 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bb
+x
 File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.b
+bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count462
 \c@bbx:relatedtotal=\count463
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric.cb
+x
 File: numeric.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -704,56 +883,75 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-12-29 L3 programming layer (loader) 
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-09-02 L3 programming layer (loader) 
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count464
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2025-12-29 L3 programming layer (loader) 
+(biblatex)             2025-09-02 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2025-10-09 L3 Experimental document command parser
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3
+.sty
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xpars
+e.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count465
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen306
 \Hy@linkcounter=\count466
 \Hy@pagecounter=\count467
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count468
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -769,10 +967,14 @@ Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count469
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen307
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count470
 \Field@Width=\dimen308
@@ -789,41 +991,75 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count473
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count474
 \c@bookmark@seq@number=\count475
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfil
+echeck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
 )
 \Hy@SectionHShift=\skip84
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/
+pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.misc.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.misc.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/
+pgflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.symbols.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.symbols.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/
+pgflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.arrows.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.arrows.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/
+pgflibraryshapes.arrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.callouts.code.tex (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.callouts.code.tex)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.callouts.code.tex
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/
+pgflibraryshapes.callouts.code.tex))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/
+pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodepartlowerbox=\box68
 \pgfnodeparttwobox=\box69
@@ -845,21 +1081,35 @@ File: pgflibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodepartsevenbox=\box85
 \pgfnodepartsixbox=\box86
 \pgfnodepartfivebox=\box87
-))) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+)))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@layerbox@background=\box88
 \pgf@layerboxsaved@background=\box89
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypatterns.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarypatterns.code.tex
 File: tikzlibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibr
+arypatterns.code.tex
 File: pgflibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+))
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibr
+aryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowinset=\dimen310
 \pgfarrowlength=\dimen311
 \pgfarrowwidth=\dimen312
 \pgfarrowlinewidth=\dimen313
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarydecorations.markings.code.tex
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tik
+z/libraries/tikzlibrarydecorations.code.tex
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodule
+decorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen314
 \pgfdecoratedremainingdistance=\dimen315
 \pgfdecoratedinputsegmentcompleteddistance=\dimen316
@@ -870,87 +1120,66 @@ File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfdecorationsegmentlength=\dimen320
 )
 \tikz@lib@dec@box=\box90
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.markings.code.tex))
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorat
+ions/pgflibrarydecorations.markings.code.tex))
 \c@theorem=\count477
 \c@claim=\count478
 \c@remark=\count479
 \c@conjecture=\count480
-<<<<<<< HEAD
 \c@example=\count481
 \c@question=\count482
-\c@observation=\count483
-\@quotelevel=\count484
-\@quotereset=\count485
+\c@solution=\count483
+\c@observation=\count484
+\@quotelevel=\count485
+\@quotereset=\count486
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
 
 (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mk
 ii
-=======
-\c@question=\count481
-\c@solution=\count482
-\c@observation=\count483
-\@quotelevel=\count484
-\@quotereset=\count485
- (main.aux)
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count486
+\scratchcounter=\count487
 \scratchdimen=\dimen321
 \scratchbox=\box91
-\nofMPsegments=\count487
-\nofMParguments=\count488
+\nofMPsegments=\count488
+\nofMParguments=\count489
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count489
+\MPscratchCnt=\count490
 \MPscratchDim=\dimen322
-\MPnumerator=\count490
-\makeMPintoPDFobject=\count491
+\MPnumerator=\count491
+\makeMPintoPDFobject=\count492
 \everyMPtoPDFconversion=\toks49
-) (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -991,7 +1220,9 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-(C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+
+(/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lb
+x
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1001,86 +1232,61 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-<<<<<<< HEAD
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 75.
-Package biblatex Info: Reference segment=0 on input line 75.
-Package hyperref Info: Link coloring ON on input line 75.
+Package biblatex Info: Reference section=0 on input line 111.
+Package biblatex Info: Reference segment=0 on input line 111.
+Package hyperref Info: Link coloring ON on input line 111.
  (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 113
+.
 
 (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 113
+.
 
 (/U1/accounts/amanda8/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-=======
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 102.
-Package biblatex Info: Reference segment=0 on input line 102.
-Package hyperref Info: Link coloring ON on input line 102.
- (main.out) (main.out)
-\@outlinefile=\write6
-\openout6 = `main.out'.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 104.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 104.
- (C:\Users\ayana\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+
+[1
 
 
-{C:/Users/ayana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
-
-<<<<<<< HEAD
 {/U1/accounts/amanda8/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-}] (./week01.tex
-=======
-] (main.toc)
+}]
+
+[2
+
+] (./main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
 
- [3] [4
+
+
+[3]
+
+[4
 
 ]
 Chapter 1.
-<<<<<<< HEAD
+(./week01.tex
 Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
-nput line 7.
+nput line 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+[1{/U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-sup
+er-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
 ) (./week02.tex
 
-[3{/U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-sup
-er-ts1.enc}]
-=======
-(week01.tex
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 4.
- [1]
-Underfull \hbox (badness 10000) in paragraph at lines 32--34
-
- []
-
-) [2]
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
-
-[4
-
-]
+[2]
 Chapter 2.
 Package hyperref Info: bookmark level for unknown remark defaults to 0 on input
  line 16.
@@ -1088,89 +1294,58 @@ Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
 t line 37.
 
 
-[5]
+[3
+
+]
 Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
 t line 85.
 )
 
-[6]
+[4]
 
 Package caption Warning: Unused \captionsetup[sub] on input line 21.
 See the caption package documentation for explanation.
 
-(main.aux)
+(./main.aux)
  ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-29>
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
  ***********
-<<<<<<< HEAD
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 520CB61EC40CC731A2F2EBAFFE67EE7C;1979
-(rerunfilecheck)             After:  3001D9B5AE5605BD2D60D9EEFBF909C8;1693.
-=======
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7C4597CA7C3FA8CF6EF96ECF4F56B343;367.
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
+(rerunfilecheck)             Checksum: 5207DC7731CD4B78E996A0F115BA3ADE;1817.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 34614 strings out of 467748
- 690466 string characters out of 5421749
- 1528482 words of memory out of 5000000
- 62715 multiletter control sequences out of 15000+600000
- 642239 words of font info for 90 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 84i,7n,131p,541b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{subsection.2.1.6} has been referenced but does not 
-exist, replaced by a fixed one
-
-</U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbxti10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/font
-s/type1/public/amsfonts/cm/cmex10.pfb></U1/accounts/amanda8/texlive/2025/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></U1/accounts/amanda8/texlive/20
-25/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></U1/accounts/amanda8/te
-xlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></U1/accounts/am
-anda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></U1/acc
-ounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-</U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r8.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsl10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmti10.pfb></U1/accounts/amanda8/texlive/2025/te
-xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></U1/accounts/amanda8/t
-exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (6 pages, 201954 bytes).
-PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 34605 strings out of 467871
- 690497 string characters out of 5418376
- 1529757 words of memory out of 5000000
- 62910 multiletter control sequences out of 15000+600000
+ 34664 strings out of 467748
+ 690929 string characters out of 5421749
+ 1527031 words of memory out of 5000000
+ 62759 multiletter control sequences out of 15000+600000
  642845 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,131p,594b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ayana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/ayana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (6 pages, 178290 bytes).
+ 84i,7n,131p,541b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbxti10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb></U1/accounts/amanda8/texlive/2025/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></U1/accounts/amanda8/texlive/
+2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></U1/accounts/amanda8/
+texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></U1/accounts/
+amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></U1/a
+ccounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msl10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb></U1/accounts/amanda8/texlive/2025/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb></U1/accounts/amanda8/texlive/2025/texmf-di
+st/fonts/type1/public/amsfonts/symbols/msbm10.pfb></U1/accounts/amanda8/texlive
+/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (8 pages, 194264 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 37 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> ca476caba27d216d877ee076a06e6ec2c9e048e4
+ 208 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 

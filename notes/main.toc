@@ -1,3 +1,9 @@
 \contentsline {chapter}{\numberline {1}Preliminaries}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Motivation:}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Motivation for GIT}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Polarization and Restitution:}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Invariant functions, quotients, and finite generation}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Invariant functions.}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Spec vs.\ Specm.}{3}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Affine schemes and schemes.}{4}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Quotients and finite generation.}{4}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Hilbert's 14th problem and Nagata's counterexample.}{4}{subsection.2.1.5}%
