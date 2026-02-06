@@ -16,6 +16,7 @@ Here you'll find:
 ## 📘 Weekwise Topics:
 
 - [Week 1: Preliminaries and Motivation](week01.md)
+- [Week 2: Polarization and Restitution](week02.md)
 
 #### 📝 [Notes](/notes/main.pdf)
 
