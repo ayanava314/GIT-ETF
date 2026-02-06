@@ -9,6 +9,7 @@ layout: default
 - I. Dolgachev: Lectures on Invariant Theory : Chapter 1
 
 **Topics:**  
+- This page and the pdf currently contains only the motivation part...I might add some preliminary parts later.
 - What is ETF?
 
 
